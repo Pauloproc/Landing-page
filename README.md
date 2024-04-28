@@ -1,2 +1,2 @@
 # Landing-page
- Pagina criada usando flexbox
+ Pagina criada usando HTML 5, CSS3 e flexbox
