@@ -11,7 +11,7 @@
 
 body {
     font-size: 100%;
-    background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+    background-image: radial-gradient(circle at 64.3% 80.66%, #40a6bb 0, #4288c7 50%, #233851 100%);
     height: auto;
     width: auto;
    
@@ -41,7 +41,7 @@ body {
 }
 
 .menu {
-    border-top: 0.4px solid #FFF2E7;
+    /* border-top: 0.4px solid #FFF2E7; */
 }
 
 .menu-principal {
@@ -49,7 +49,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    border-style: solid;
+    /* border-style: solid; */
    
 
 }
@@ -89,7 +89,7 @@ body {
 }
 
 .foto-robo{
-    height: 260px;
+    height: 200px;
 }
 .segundo-conteudo {
     display: flex;
